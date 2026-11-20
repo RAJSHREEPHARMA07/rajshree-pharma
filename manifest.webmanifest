@@ -1,0 +1,25 @@
+{
+  "id": "/",
+  "name": "RAJSHREE PHARMA",
+  "short_name": "Rajshree Pharma",
+  "description": "Browse the Rajshree Pharma product catalogue and send order enquiries on WhatsApp.",
+  "lang": "en-IN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f5",
+  "theme_color": "#073b32",
+  "categories": [
+    "shopping",
+    "health"
+  ],
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
